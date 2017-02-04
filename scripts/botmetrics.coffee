@@ -1,6 +1,4 @@
 # Remember to run `npm install --save botmetrics` in your app.
-
-bodyParser = require('body-parser')
 Botmetrics = require('botmetrics')
 
 module.exports = (robot) ->
